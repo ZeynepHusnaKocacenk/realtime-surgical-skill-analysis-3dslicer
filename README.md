@@ -22,7 +22,7 @@ University (AI/ML Stream).
 Python, PyTorch, 3D Slicer, OpenIGTLink, NumPy, Qt, VTK, OptiTrack
 
 ## Demo
-[YouTube Demo Video Link]
+https://youtu.be/9y2-54FZUT8
 
 ## Dataset
 Ultrasound Needle Dataset (Xia et al., 2018)
