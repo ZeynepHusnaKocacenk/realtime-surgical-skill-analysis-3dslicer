@@ -1,6 +1,6 @@
 # realtime-surgical-skill-analysis-3dslicer
 
-**# Real-Time Sequence Data Analysis in 3D Slicer Using Deep Neural Networks
+# Real-Time Sequence Data Analysis in 3D Slicer Using Deep Neural Networks
 
 A modular, end-to-end deep learning pipeline for real-time surgical 
 skill classification using transformation data from motion tracking systems.
@@ -27,4 +27,4 @@ Python, PyTorch, 3D Slicer, OpenIGTLink, NumPy, Qt, VTK, OptiTrack
 [YouTube Demo Video Link]
 
 ## Dataset
-Ultrasound Needle Dataset (Xia et al., 2018)**
+Ultrasound Needle Dataset (Xia et al., 2018)
