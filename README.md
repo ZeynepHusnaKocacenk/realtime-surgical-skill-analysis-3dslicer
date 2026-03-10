@@ -1,5 +1,3 @@
-# realtime-surgical-skill-analysis-3dslicer
-
 # Real-Time Sequence Data Analysis in 3D Slicer Using Deep Neural Networks
 
 A modular, end-to-end deep learning pipeline for real-time surgical 
