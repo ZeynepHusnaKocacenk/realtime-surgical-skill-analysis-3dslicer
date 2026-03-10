@@ -6,7 +6,7 @@ skill classification using transformation data from motion tracking systems.
 ## Overview
 This system integrates PyTorch-based BiLSTM and TCN models directly 
 into 3D Slicer, enabling real-time inference on live tool motion data 
-with sub-25ms latency. Built as part of a B.Sc. thesis at Carleton 
+with sub-25ms latency. Built as part of a B.Sc. thesis at Carleton under Professor Mathew Holden
 University (AI/ML Stream).
 
 ## Key Features
